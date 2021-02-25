@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KGvwZKH+IIw2/iV477P16fJhBp8vuIi8curUs/T5aFwMcCrE1wW5TGM2hssE9BzC7ysaJYUdgyOJAqfYqBMtSQ==",
+  "success": true,
+  "projectFilePath": "E:\\VSRepos\\LevelUP\\LevelUP.WebSite\\LevelUP.WebSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niamo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.11\\microsoft.netcore.app.runtime.win-x86.3.1.11.nupkg.sha512",
+    "C:\\Users\\niamo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.11\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.11.nupkg.sha512",
+    "C:\\Users\\niamo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.11\\microsoft.aspnetcore.app.runtime.win-x86.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

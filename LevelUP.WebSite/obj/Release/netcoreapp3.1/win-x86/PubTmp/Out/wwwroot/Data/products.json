@@ -1,0 +1,48 @@
+[
+    {
+        "Id": "maze-universe",
+        "Maker": "@grg",
+        "img": "https://play-lh.googleusercontent.com/YvUOyi-8y4cxyyZQd58ZBI_Ro96Lo8mU42t2WVG2b3ToIaspvgwXkOyYwVaiEN63Uw=s180-rw",
+        "Url": "https://play.google.com/store/apps/details?id=com.GRG.MazeUniverse",
+        "Title": "Maze Universe 3D (published)",
+        "Description": "The goal of the game is to get out of the maze. Video:https://www.youtube.com/watch?v=m0rOKDy03XQ Link:https://play.google.com/store/apps/details?id=com.GRG.MazeUniverse",
+        "Ratings": null
+    },
+    {
+        "Id": "osiris",
+        "Maker": "@grg",
+        "img": "https://i.ibb.co/n1ZK75X/icon.webp",
+        "Url": "https://www.hackster.io/agent-hawking-1/bling-your-laptop-with-an-internet-connected-light-show-30e4db",
+        "Title": "Osiris",
+        "Description": "Text-based quest for mobile platforms. Developing in process.",
+        "Ratings": null
+    },
+    {
+        "Id": "nicknamefight",
+        "Maker": "@grg",
+        "img": "https://play-lh.googleusercontent.com/oA690epH58tAJmdfEubruotUvtVn9rxig3LXPFL_L1xYXJzzT8Amr3mRaVagnBd65g=s180-rw",
+        "Url": "https://play.google.com/store/apps/details?id=com.GRGV.NicknameFight",
+        "Title": "NickName Fight (published)",
+        "Description": "Enter any name and get detailed specifications! Have a name competition with your friends or compare names and nicknames of celebrities! Link:https://play.google.com/store/apps/details?id=com.GRGV.NicknameFight",
+        "Ratings": null
+    },
+    {
+        "Id": "MyChallenge",
+        "Maker": "@grg",
+        "img": "https://i.ibb.co/Wsh2MJn/person-lifting-weights-1f3cb-fe0f.png",
+        "Url": "https://www.hackster.io/agent-hawking-1/create-a-compact-survival-kit-38bfdb",
+        "Title": "MyChallenge",
+        "Description": "Social App based on Realtime Database from Google Firebase",
+        "Ratings": null
+    },
+    {
+        "Id": "InSearchOfHelga",
+        "Maker": "@grg",
+        "img": "https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/featured_image/2021/01/283684/frame_2.png",
+        "Url": "https://twitter.com/sailorhg/status/1090107740049952770",
+        "Title": "InSearchOfHelga",
+        "Description": "Rogue-like game for mobile platforms developed for Global Game Jam 2021 with random team. Link:https://globalgamejam.org/2021/games/search-helga-6-0",
+        "Ratings": null
+    }
+  
+]

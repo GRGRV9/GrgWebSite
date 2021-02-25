@@ -1,0 +1,15 @@
+﻿@page
+@using LevelUP.WebSite.Components;
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">    
+    <h1 class="display-4">LIBRARY</h1>
+    <p></p>
+</div>
+
+@(await Html.RenderComponentAsync<ProductList>(RenderMode.ServerPrerendered))
+
+<script src="_framework/blazor.server.js"></script>
